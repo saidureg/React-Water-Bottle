@@ -2,3 +2,11 @@
   width: 100px;
   margin-right: 10px;
 }
+.cart-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.cart-container button {
+  display: block;
+}
